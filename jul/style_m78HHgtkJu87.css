@@ -1,0 +1,63 @@
+.wrap{
+	margin-top: 10%;
+	margin-right: 300%
+	background-color: #fff;
+}
+.modal-header, h4, .close {
+    background-color: #5cb85c;
+    color:white !important;
+    text-align: center;
+    font-size: 30px;
+}
+
+#kepala {
+	margin-top: 1%;
+}
+
+#titel {
+	text-decoration: none;
+	color: #000000;
+}
+
+#artikels {
+	border-bottom: 1px dashed grey;
+}
+
+#credit {
+	font-size: 10px;
+	color: grey;
+}
+
+#perkomentar {
+	margin-top: 10px;
+	margin-left: 70px;
+}
+
+#borderkomen {
+	border-top: solid 1px rgb(220,220,220);
+	border-left: solid 1px rgb(220,220,220); 
+}
+
+#komenter {
+	margin-bottom: 0;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+#isikomen {
+	margin-top: 20px;
+}
+
+#waktukomen {
+	margin-top: 0;
+	font-size: 10px;
+	color: grey;
+}
+
+#paginasi {
+	margin-top: 20px;
+}
+
+#alas {
+	color: grey;
+}
